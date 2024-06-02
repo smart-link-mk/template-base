@@ -12,13 +12,13 @@ Welcome to the Smart-Link Template Base project! This repository provides a foun
 - [Project Structure](#project-structure)
 - [Usage](#usage)
   - [Development](#development)
-  - [Building](#building)
-  - [Testing](#testing)
-- [License](#license)
+  - [Publishing](#publishing)
 
 ## Introduction
 
 Smart-Link Template Base is designed to streamline the process of developing templates for the Smart-Link using HTML and LiquidJS. By using this boilerplate, developers can focus on creating unique designs and functionalities without worrying about the initial setup and configuration.
+
+Here is a link using this very simple template as an example: https://smart-l.ink/template-base-example
 
 ## Features
 
