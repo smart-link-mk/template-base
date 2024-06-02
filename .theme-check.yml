@@ -1,0 +1,16 @@
+# The directory where theme folders are located (optional)
+root: template
+
+# Configuration files are extensible
+extends:
+  - theme-check:recommended # or theme-check:all, theme-check:theme-app-extension
+
+
+UndefinedObject:
+  enabled: false
+RemoteAsset:
+  enabled: false
+ParserBlockingJavascript:
+  enabled: false
+ParserBlockingScript:
+  enabled: false
